@@ -1,0 +1,21 @@
+body {
+    display: flex;
+}
+
+.header-figure {
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+main {
+    margin-top: 150px;
+}
+
+.section-container--parraf .main--button {
+    margin-top: 70px;
+}
+
+.section-container--parraf {
+    margin-top: 40px;
+}
